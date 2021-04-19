@@ -25,3 +25,5 @@ let phone = {
 }
 console.log(phone.switch())
 console.log(phone.phoneStatus)
+
+alert('Alvi лучше!');
